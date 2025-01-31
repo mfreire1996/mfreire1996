@@ -10,8 +10,6 @@ I am a full-stack developer and designer with a strong passion for coding and te
 *   🧠  I'm learning Next.js & Angular
 *   🤝  I'm open to collaborating on API projects
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfreire1996)](https://github.com/mfreire1996/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfreire1996&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfreire1996&show_icons=true&theme=radical)
